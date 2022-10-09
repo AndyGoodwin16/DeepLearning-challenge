@@ -1,4 +1,4 @@
-NOTE: Answers to questions below were included in Report.doc.
+NOTE: Answers to questions below were included in Report.docx.
 # Unit 21 Homework: Charity Funding Predictor
 
 ## Background
